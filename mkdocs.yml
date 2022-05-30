@@ -9,6 +9,12 @@ plugins:
 
 nav:
   - 'Welcome': "index.md"
+  - '区块链技术': 
+    - '1 区块链的革命性及技术概要': '1blockchain/1theory.md'
+    - '2 区块链技术细节（哈希算法/加密和挖矿)' : '1blockchain/2techs_intro.md'
+    - '3 区块链技术去中心化的共识机制': '1blockchain/3decentralised.md'
+    - '4 区块链技术智能合约' : '1blockchain/4contract.md'
+    - '5 区块链技术传统金融和虚拟货币': '1blockchain/5fintech.md'
 
 repo_url: https://github.com/Chao-Xi/jxfintechbook.git
 repo_name: "jxfintechbook"
