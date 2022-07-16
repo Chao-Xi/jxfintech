@@ -15,6 +15,16 @@ nav:
     - '3 区块链技术去中心化的共识机制': '1blockchain/3decentralised.md'
     - '4 区块链技术智能合约' : '1blockchain/4contract.md'
     - '5 区块链技术传统金融和虚拟货币': '1blockchain/5fintech.md'
+  - 'Autosys CA':
+    - '1 Autosys Introduction': 'autosys/1Autosys_tot1.md'
+    - '2 Autosys JIL': 'autosys/2Autosys_jil.md' 
+    - '3 Autosys Components, Configuration & Validation': 'autosys/3Autosys_comp.md' 
+    - '4 Austosys command': 'autosys/4Autosys_cmd.md' 
+    - '5 Manage Job in the Database': 'autosys/5Autosys_job_cmd.md' 
+    - '6 Autotsys virtual resource management': 'autosys/6autosys_vir_resouce.md'  
+    - '7 Shell Script to check Autosys agent installed': 'autosys/7autosys_shell.md'
+  - 'Agile fundamental':
+    - '1 Agile Intro': 'agile/1agile_intro.md'
 
 repo_url: https://github.com/Chao-Xi/jxfintechbook.git
 repo_name: "jxfintechbook"
