@@ -25,6 +25,8 @@ nav:
     - '7 Shell Script to check Autosys agent installed': 'autosys/7autosys_shell.md'
   - 'Agile fundamental':
     - '1 Agile Intro': 'agile/1agile_intro.md'
+    - '2 Agile Block Learn': 'agile/2agile_block.md'
+    - '3 Agile Action': 'agile/3agile_action.md'
 
 repo_url: https://github.com/Chao-Xi/jxfintechbook.git
 repo_name: "jxfintechbook"
