@@ -29,6 +29,8 @@ nav:
     - '1 Agile Intro': 'agile/1agile_intro.md'
     - '2 Agile Block Learn': 'agile/2agile_block.md'
     - '3 Agile Action': 'agile/3agile_action.md'
+  - 'Deepseek':
+    - '1 在 Kubernetes上免费部署Ollama+DeepSeek': 'deepseek/1k8s_deepseek_local.md'
 
 repo_url: https://github.com/Chao-Xi/jxfintechbook.git
 repo_name: "jxfintechbook"
