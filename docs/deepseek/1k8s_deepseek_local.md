@@ -1,0 +1,1 @@
+# 在 Kubernetes上免费部署Ollama+DeepSeek
